@@ -1,0 +1,10 @@
+site_name: Documentation Library
+
+nav:
+  - Home: 'index.md'
+  - Use: 'use.md'
+  - Project layout: 'layout.md'
+  - Strategy: 'arbitrage.md'
+  - Upcoming Improvements: 'improvements.md'
+
+theme: readthedocs
