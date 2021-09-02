@@ -14,7 +14,7 @@ Library Documentation
 .. toctree::
     :caption: Project Layout
 
-    Layout
+    layout
 
 .. toctree::
     :caption: Strategy
